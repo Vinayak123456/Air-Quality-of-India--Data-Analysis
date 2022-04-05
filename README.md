@@ -14,4 +14,4 @@ Contents:
 9.	Plotting yearwise and monthwise AQI for all cities
 10.	AQI comparison for major cities
 11.	Comparison of AQI for year 2019 & 2020
-[India Air Quality Data Analysis (2015-2020).zip](https://github.com/Vinayak123456/Air-Quality-of-India--Data-Analysis/files/8402695/India.Air.Quality.Data.Analysis.2015-2020.zip)
+
